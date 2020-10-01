@@ -1,0 +1,321 @@
+[
+	{
+		"category": "Letter",
+		"subCategory": null,
+		"script": "devanagari",
+		"chars": [
+			"0978",
+			"0915",
+			"0916",
+			"0917",
+			"0918",
+			"0919",
+			"091A",
+			"091B",
+			"091C",
+			"091D",
+			"091E",
+			"091F",
+			"0920",
+			"0921",
+			"0922",
+			"0923",
+			"0924",
+			"0925",
+			"0926",
+			"0927",
+			"0928",
+			"0929",
+			"092A",
+			"092B",
+			"092C",
+			"092D",
+			"092E",
+			"092F",
+			"0930",
+			"0931",
+			"0932",
+			"0933",
+			"0934",
+			"0935",
+			"0936",
+			"0937",
+			"0938",
+			"0939",
+			"0958",
+			"0959",
+			"095A",
+			"095B",
+			"095C",
+			"095D",
+			"095E",
+			"095F",
+			"0979",
+			"097A",
+			"097B",
+			"097C",
+			"097E",
+			"097F",
+			"A8FB",
+			"A8FD"
+		]
+	},
+	{
+		"category": "Letter",
+		"subCategory": "Matra",
+		"script": "devanagari",
+		"chars": [
+			"0904",
+			"0905",
+			"0906",
+			"0907",
+			"0908",
+			"0909",
+			"090A",
+			"090B",
+			"0960",
+			"090C",
+			"0961",
+			"090D",
+			"090E",
+			"090F",
+			"0910",
+			"0911",
+			"0912",
+			"0913",
+			"0914",
+			"0973",
+			"0974",
+			"0975",
+			"0976",
+			"0977",
+			"093E",
+			"093F",
+			"0940",
+			"0949",
+			"094A",
+			"094B",
+			"094C",
+			"094E",
+			"093B",
+			"094F",
+			"0972"
+		]
+	},
+	{
+		"category": "Number",
+		"subCategory": "Decimal Digit",
+		"script": null,
+		"chars": [
+			"0030",
+			"0031",
+			"0032",
+			"0033",
+			"0034",
+			"0035",
+			"0036",
+			"0037",
+			"0038",
+			"0039"
+		]
+	},
+	{
+		"category": "Number",
+		"subCategory": "Decimal Digit",
+		"script": "devanagari",
+		"chars": [
+			"0966",
+			"0967",
+			"0968",
+			"0969",
+			"096A",
+			"096B",
+			"096C",
+			"096D",
+			"096E",
+			"096F"
+		]
+	},
+	{
+		"category": "Punctuation",
+		"subCategory": null,
+		"script": null,
+		"chars": [
+			"0021",
+			"0023",
+			"002A",
+			"002C",
+			"002E",
+			"002F",
+			"003A",
+			"003B",
+			"003F",
+			"005C",
+			"2026"
+		]
+	},
+	{
+		"category": "Punctuation",
+		"subCategory": null,
+		"script": "devanagari",
+		"chars": [
+			"097D",
+			"0964",
+			"0965",
+			"0970",
+			"A8F8",
+			"A8F9",
+			"A8FA",
+			"A8FC"
+		]
+	},
+	{
+		"category": "Punctuation",
+		"subCategory": "Quote",
+		"script": null,
+		"chars": ["0022", "0027", "2018", "2019", "201C", "201D"]
+	},
+	{
+		"category": "Punctuation",
+		"subCategory": "Parenthesis",
+		"script": null,
+		"chars": ["0028", "0029", "005B", "005D", "007B", "007D"]
+	},
+	{
+		"category": "Punctuation",
+		"subCategory": "Dash",
+		"script": null,
+		"chars": ["002D", "005F", "00AD", "2010", "2013", "2014"]
+	},
+	{
+		"category": "Punctuation",
+		"subCategory": "Modifier",
+		"script": "devanagari",
+		"chars": ["0971"]
+	},
+	{
+		"category": "Symbol",
+		"subCategory": null,
+		"script": null,
+		"chars": ["007C"]
+	},
+	{
+		"category": "Symbol",
+		"subCategory": null,
+		"script": "devanagari",
+		"chars": ["093D", "0950"]
+	},
+	{
+		"category": "Symbol",
+		"subCategory": "Currency",
+		"script": null,
+		"chars": ["20B9"]
+	},
+	{
+		"category": "Symbol",
+		"subCategory": "Math",
+		"script": null,
+		"chars": [
+			"0025",
+			"002B",
+			"003C",
+			"003D",
+			"003E",
+			"007E",
+			"005E",
+			"00D7",
+			"00F7",
+			"2212"
+		]
+	},
+	{
+		"category": "Symbol",
+		"subCategory": "Geometry",
+		"script": null,
+		"chars": ["25CC"]
+	},
+	{
+		"category": "Separator",
+		"subCategory": null,
+		"script": null,
+		"chars": ["000D"]
+	},
+	{
+		"category": "Separator",
+		"subCategory": "Space",
+		"script": null,
+		"chars": ["0020", "00A0", "200B"]
+	},
+	{
+		"category": "Separator",
+		"subCategory": "Nonspace",
+		"script": null,
+		"chars": ["200C", "200D"]
+	},
+	{
+		"category": "Mark",
+		"subCategory": "Modifier",
+		"script": null,
+		"chars": ["02BC"]
+	},
+	{
+		"category": "Mark",
+		"subCategory": "Spacing",
+		"script": "devanagari",
+		"chars": ["0903", "A8F2", "A8F3", "A8F4", "A8F5", "A8F6", "A8F7"]
+	},
+	{
+		"category": "Mark",
+		"subCategory": "Nonspacing",
+		"script": null,
+		"chars": ["20F0"]
+	},
+	{
+		"category": "Mark",
+		"subCategory": "Nonspacing",
+		"script": "devanagari",
+		"chars": [
+			"0941",
+			"0942",
+			"0943",
+			"0944",
+			"0962",
+			"0963",
+			"0945",
+			"0901",
+			"0900",
+			"0946",
+			"0947",
+			"0948",
+			"0902",
+			"094D",
+			"093C",
+			"0955",
+			"093A",
+			"0956",
+			"0957",
+			"0951",
+			"0952",
+			"0953",
+			"0954",
+			"A8E0",
+			"A8E1",
+			"A8E2",
+			"A8E3",
+			"A8E4",
+			"A8E5",
+			"A8E6",
+			"A8E7",
+			"A8E8",
+			"A8E9",
+			"A8EA",
+			"A8EB",
+			"A8EC",
+			"A8ED",
+			"A8EE",
+			"A8EF",
+			"A8F0",
+			"A8F1"
+		]
+	}
+]

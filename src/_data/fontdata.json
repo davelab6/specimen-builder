@@ -1,82 +1,42 @@
 [
 	{
-		"name": "NotoSans-Thin",
-		"selector": "notosans-thin",
-		"style": "thin"
+		"name": "NotoSansDevanagari-ExtraLight",
+		"selector": "notosansdevanagari-extralight",
+		"style": "Extralight"
 	},
 	{
-		"name": "NotoSans-ThinItalic",
-		"selector": "notosans-thinitalic",
-		"style": "italic thin"
+		"name": "NotoSansDevanagari-Light",
+		"selector": "notosansdevanagari-light",
+		"style": "Light"
 	},
 	{
-		"name": "NotoSans-Light",
-		"selector": "notosans-light",
-		"style": "light"
+		"name": "NotoSansDevanagari-Regular",
+		"selector": "notosansdevanagari-regular",
+		"style": "Regular"
 	},
 	{
-		"name": "NotoSans-LightItalic",
-		"selector": "notosans-lightitalic",
-		"style": "italic light"
+		"name": "NotoSansDevanagari-Medium",
+		"selector": "notosansdevanagari-medium",
+		"style": "Medium"
 	},
 	{
-		"name": "NotoSans-Regular",
-		"selector": "notosans-regular",
-		"style": "regular"
+		"name": "NotoSansDevanagari-SemiBold",
+		"selector": "notosansdevanagari-semibold",
+		"style": "Semibold"
 	},
 	{
-		"name": "NotoSans-Italic",
-		"selector": "notosans-italic",
-		"style": "italic"
+		"name": "NotoSansDevanagari-Bold",
+		"selector": "notosansdevanagari-bold",
+		"style": "Bold"
 	},
 	{
-		"name": "NotoSans-Medium",
-		"selector": "notosans-medium",
-		"style": "medium"
+		"name": "NotoSansDevanagari-ExtraBold",
+		"selector": "notosansdevanagari-extrabold",
+		"style": "Extrabold"
 	},
 	{
-		"name": "NotoSans-MediumItalic",
-		"selector": "notosans-mediumitalic",
-		"style": "italic medium"
-	},
-	{
-		"name": "NotoSans-SemiBold",
-		"selector": "notosans-semibold",
-		"style": "semibold bold"
-	},
-	{
-		"name": "NotoSans-SemiBoldItalic",
-		"selector": "notosans-semibolditalic",
-		"style": "italic semibold bold"
-	},
-	{
-		"name": "NotoSans-Bold",
-		"selector": "notosans-bold",
-		"style": "bold"
-	},
-	{
-		"name": "NotoSans-BoldItalic",
-		"selector": "notosans-bolditalic",
-		"style": "italic bold"
-	},
-	{
-		"name": "NotoSans-ExtraBold",
-		"selector": "notosans-extrabold",
-		"style": "bold extrabold"
-	},
-	{
-		"name": "NotoSans-ExtraBoldItalic",
-		"selector": "notosans-extrabolditalic",
-		"style": "italic bold extrabold"
-	},
-	{
-		"name": "NotoSans-Black",
-		"selector": "notosans-black",
-		"style": "black"
-	},
-	{
-		"name": "NotoSans-BlackItalic",
-		"selector": "notosans-blackitalic",
-		"style": "italic black"
+		"name": "NotoSansDevanagari-Black",
+		"selector": "notosansdevanagari-black",
+		"style": "Black"
 	}
 ]

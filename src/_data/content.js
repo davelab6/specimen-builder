@@ -1,5 +1,5 @@
 module.exports = {
-	typeface: "Noto Thai",
+	typeface: "Noto Sans Thai",
 
 	// Masthead
 	poster: "ทักษ์ฝั่",

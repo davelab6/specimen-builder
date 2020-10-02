@@ -259,8 +259,8 @@ button {
 
 .controls {
 	grid-area: controls;
-	border-left: 1px solid #000;
-	padding-left: 1vw;
+	border-right: 1px solid #000;
+	padding-right: 1vw;
 	font-family: var(--font-system);
 }
 

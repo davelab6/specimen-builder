@@ -1,42 +1,42 @@
 [
 	{
-		"name": "NotoSansDevanagari-ExtraLight",
-		"selector": "notosansdevanagari-extralight",
-		"style": "Extralight"
-	},
-	{
-		"name": "NotoSansDevanagari-Light",
-		"selector": "notosansdevanagari-light",
-		"style": "Light"
-	},
-	{
-		"name": "NotoSansDevanagari-Regular",
-		"selector": "notosansdevanagari-regular",
-		"style": "Regular"
-	},
-	{
-		"name": "NotoSansDevanagari-Medium",
-		"selector": "notosansdevanagari-medium",
-		"style": "Medium"
-	},
-	{
-		"name": "NotoSansDevanagari-SemiBold",
-		"selector": "notosansdevanagari-semibold",
-		"style": "Semibold"
+		"name": "NotoSansDevanagari-Black",
+		"selector": "notosansdevanagari-black",
+		"style": "black"
 	},
 	{
 		"name": "NotoSansDevanagari-Bold",
 		"selector": "notosansdevanagari-bold",
-		"style": "Bold"
+		"style": "bold"
 	},
 	{
 		"name": "NotoSansDevanagari-ExtraBold",
 		"selector": "notosansdevanagari-extrabold",
-		"style": "Extrabold"
+		"style": "bold extrabold"
 	},
 	{
-		"name": "NotoSansDevanagari-Black",
-		"selector": "notosansdevanagari-black",
-		"style": "Black"
+		"name": "NotoSansDevanagari-ExtraLight",
+		"selector": "notosansdevanagari-extralight",
+		"style": "extralight light"
+	},
+	{
+		"name": "NotoSansDevanagari-Light",
+		"selector": "notosansdevanagari-light",
+		"style": "light"
+	},
+	{
+		"name": "NotoSansDevanagari-Medium",
+		"selector": "notosansdevanagari-medium",
+		"style": "medium"
+	},
+	{
+		"name": "NotoSansDevanagari-Regular",
+		"selector": "notosansdevanagari-regular",
+		"style": "regular"
+	},
+	{
+		"name": "NotoSansDevanagari-SemiBold",
+		"selector": "notosansdevanagari-semibold",
+		"style": "semibold bold"
 	}
 ]

@@ -1,0 +1,74 @@
+[
+	{
+		"name": "Thin",
+		"axes": {
+			"wght": 100,
+			"ESHP": 2,
+			"EGRD": 1
+		}
+	},
+	{
+		"name": "ExtraLight",
+		"axes": {
+			"wght": 200,
+			"ESHP": 2,
+			"EGRD": 1
+		}
+	},
+	{
+		"name": "Light",
+		"axes": {
+			"wght": 300,
+			"ESHP": 2,
+			"EGRD": 1
+		}
+	},
+	{
+		"name": "Regular",
+		"axes": {
+			"wght": 400,
+			"ESHP": 2,
+			"EGRD": 1
+		}
+	},
+	{
+		"name": "Medium",
+		"axes": {
+			"wght": 500,
+			"ESHP": 2,
+			"EGRD": 1
+		}
+	},
+	{
+		"name": "SemiBold",
+		"axes": {
+			"wght": 600,
+			"ESHP": 2,
+			"EGRD": 1
+		}
+	},
+	{
+		"name": "Bold",
+		"axes": {
+			"wght": 700,
+			"ESHP": 2,
+			"EGRD": 1
+		}
+	},
+	{
+		"name": "ExtraBold",
+		"axes": {
+			"wght": 800,
+			"ESHP": 2,
+			"EGRD": 1
+		}
+	},
+	{
+		"name": "Black",
+		"axes": {
+			"wght": 900,
+			"ESHP": 2,
+			"EGRD": 1
+		}
+	}
+]

@@ -1,182 +1,47 @@
 [
 	{
-		"name": "NotoSansArabic-Black",
-		"selector": "notosansarabic-black",
-		"style": "black"
-	},
-	{
-		"name": "NotoSansArabic-Bold",
-		"selector": "notosansarabic-bold",
-		"style": "bold"
-	},
-	{
-		"name": "NotoSansArabic-Condensed",
-		"selector": "notosansarabic-condensed",
-		"style": "condensed"
-	},
-	{
-		"name": "NotoSansArabic-CondensedBlack",
-		"selector": "notosansarabic-condensedblack",
-		"style": "black condensed"
-	},
-	{
-		"name": "NotoSansArabic-CondensedBold",
-		"selector": "notosansarabic-condensedbold",
-		"style": "bold condensed"
-	},
-	{
-		"name": "NotoSansArabic-CondensedExtraBold",
-		"selector": "notosansarabic-condensedextrabold",
-		"style": "bold extrabold condensed"
-	},
-	{
-		"name": "NotoSansArabic-CondensedExtraLight",
-		"selector": "notosansarabic-condensedextralight",
-		"style": "extralight light condensed"
-	},
-	{
-		"name": "NotoSansArabic-CondensedLight",
-		"selector": "notosansarabic-condensedlight",
-		"style": "light condensed"
-	},
-	{
-		"name": "NotoSansArabic-CondensedMedium",
-		"selector": "notosansarabic-condensedmedium",
-		"style": "medium condensed"
-	},
-	{
-		"name": "NotoSansArabic-CondensedSemiBold",
-		"selector": "notosansarabic-condensedsemibold",
-		"style": "semibold bold condensed"
-	},
-	{
-		"name": "NotoSansArabic-CondensedThin",
-		"selector": "notosansarabic-condensedthin",
-		"style": "thin condensed"
-	},
-	{
-		"name": "NotoSansArabic-ExtraBold",
-		"selector": "notosansarabic-extrabold",
-		"style": "bold extrabold"
-	},
-	{
-		"name": "NotoSansArabic-ExtraCondensed",
-		"selector": "notosansarabic-extracondensed",
-		"style": "extracondensed condensed"
-	},
-	{
-		"name": "NotoSansArabic-ExtraCondensedBlack",
-		"selector": "notosansarabic-extracondensedblack",
-		"style": "black extracondensed condensed"
-	},
-	{
-		"name": "NotoSansArabic-ExtraCondensedBold",
-		"selector": "notosansarabic-extracondensedbold",
-		"style": "bold extracondensed condensed"
-	},
-	{
-		"name": "NotoSansArabic-ExtraCondensedExtraBold",
-		"selector": "notosansarabic-extracondensedextrabold",
-		"style": "bold extrabold extracondensed condensed"
-	},
-	{
-		"name": "NotoSansArabic-ExtraCondensedExtraLight",
-		"selector": "notosansarabic-extracondensedextralight",
-		"style": "extralight light extracondensed condensed"
-	},
-	{
-		"name": "NotoSansArabic-ExtraCondensedLight",
-		"selector": "notosansarabic-extracondensedlight",
-		"style": "light extracondensed condensed"
-	},
-	{
-		"name": "NotoSansArabic-ExtraCondensedMedium",
-		"selector": "notosansarabic-extracondensedmedium",
-		"style": "medium extracondensed condensed"
-	},
-	{
-		"name": "NotoSansArabic-ExtraCondensedSemiBold",
-		"selector": "notosansarabic-extracondensedsemibold",
-		"style": "semibold bold extracondensed condensed"
-	},
-	{
-		"name": "NotoSansArabic-ExtraCondensedThin",
-		"selector": "notosansarabic-extracondensedthin",
-		"style": "thin extracondensed condensed"
+		"name": "NotoSansArabic-Thin",
+		"selector": "notosansarabic-thin",
+		"style": "Thin"
 	},
 	{
 		"name": "NotoSansArabic-ExtraLight",
 		"selector": "notosansarabic-extralight",
-		"style": "extralight light"
+		"style": "Extralight light"
 	},
 	{
 		"name": "NotoSansArabic-Light",
 		"selector": "notosansarabic-light",
-		"style": "light"
-	},
-	{
-		"name": "NotoSansArabic-Medium",
-		"selector": "notosansarabic-medium",
-		"style": "medium"
+		"style": "Light"
 	},
 	{
 		"name": "NotoSansArabic-Regular",
 		"selector": "notosansarabic-regular",
-		"style": "regular"
+		"style": "Regular"
+	},
+	{
+		"name": "NotoSansArabic-Medium",
+		"selector": "notosansarabic-medium",
+		"style": "Medium"
 	},
 	{
 		"name": "NotoSansArabic-SemiBold",
 		"selector": "notosansarabic-semibold",
-		"style": "semibold bold"
+		"style": "Semibold"
 	},
 	{
-		"name": "NotoSansArabic-SemiCondensed",
-		"selector": "notosansarabic-semicondensed",
-		"style": "condensed semicondensed"
+		"name": "NotoSansArabic-Bold",
+		"selector": "notosansarabic-bold",
+		"style": "Bold"
 	},
 	{
-		"name": "NotoSansArabic-SemiCondensedBlack",
-		"selector": "notosansarabic-semicondensedblack",
-		"style": "black condensed semicondensed"
+		"name": "NotoSansArabic-ExtraBold",
+		"selector": "notosansarabic-extrabold",
+		"style": "Extrabold"
 	},
 	{
-		"name": "NotoSansArabic-SemiCondensedBold",
-		"selector": "notosansarabic-semicondensedbold",
-		"style": "bold condensed semicondensed"
-	},
-	{
-		"name": "NotoSansArabic-SemiCondensedExtraBold",
-		"selector": "notosansarabic-semicondensedextrabold",
-		"style": "bold extrabold condensed semicondensed"
-	},
-	{
-		"name": "NotoSansArabic-SemiCondensedExtraLight",
-		"selector": "notosansarabic-semicondensedextralight",
-		"style": "extralight light condensed semicondensed"
-	},
-	{
-		"name": "NotoSansArabic-SemiCondensedLight",
-		"selector": "notosansarabic-semicondensedlight",
-		"style": "light condensed semicondensed"
-	},
-	{
-		"name": "NotoSansArabic-SemiCondensedMedium",
-		"selector": "notosansarabic-semicondensedmedium",
-		"style": "medium condensed semicondensed"
-	},
-	{
-		"name": "NotoSansArabic-SemiCondensedSemiBold",
-		"selector": "notosansarabic-semicondensedsemibold",
-		"style": "semibold bold condensed semicondensed"
-	},
-	{
-		"name": "NotoSansArabic-SemiCondensedThin",
-		"selector": "notosansarabic-semicondensedthin",
-		"style": "thin condensed semicondensed"
-	},
-	{
-		"name": "NotoSansArabic-Thin",
-		"selector": "notosansarabic-thin",
-		"style": "thin"
+		"name": "NotoSansArabic-Black",
+		"selector": "notosansarabic-black",
+		"style": "Black"
 	}
 ]

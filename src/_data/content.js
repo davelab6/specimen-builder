@@ -9,7 +9,6 @@ module.exports = {
 	published: "2020",
 	about:
 		"Google has been developing a font family called Noto, which aims to support all languages with a harmonious look and feel. Noto is Google’s answer to tofu. The name noto is to convey the idea that Google’s goal is to see “no more tofu”. Noto has multiple styles and weights, and is freely available to all.",
-	designers: "Author name",
 	coverage: "69 languages across 49 regions",
 	language:
 		"Algerian Arabic,Arabic,Egyptian Arabic,Moroccan Arabic,Tunisian Arabic,Azerbaijani (Arabic script),Bakhtiari,Western Balochi,Balti,Baluchi,Beja,Berber,Brahui,Eastern Cham (Arabic script),Western Cham,Comorian,Coptic (Arabic script),Dari,Deccan,Dogri,Domari,Gilaki,Gujari,Hausa (Arabic script),Hazaragi,Northern Hindko,Southern Hindko,Indonesian (Arabic script),Indus Kohistani,Ingush (Arabic script),Jola-Fonyi (Arabic script),Kachi Koli,Kanuri,Kashmiri,Kazakh (Arabic script),Khowar,Kurdish (Arabic script),Central Kurdish,Southern Kurdish,Kyrgyz (Arabic script),Lahnda,Laki,Northern Luri,Southern Luri,Malay (Arabic script),Pattani Malay,Mazanderani,Muslim Tat (Arabic script),Ngazidja Comorian,Parkari Koli,Parsi-Dari,Pashto,Persian,Punjabi (Arabic script),Seraiki,Sindhi (Arabic script),Somali (Arabic script),Susu (Arabic script),Tachelhit (Arabic script),Tajik (Arabic script),Talysh (Arabic script),Turkish (Arabic script),Turkmen (Arabic script),Urdu,Uyghur (Arabic script),Uzbek (Arabic script),Wadiyara Koli,Wolof (Arabic script),Zoroastrian Dari",
@@ -20,7 +19,7 @@ module.exports = {
 	// Specimen
 	specimen1: "ولدته",
 	specimen2: "اعمال بناء",
-	specimen3: "تسعة عشر وأربعة وثمانون ، غالبًا ما يتم نشرها في عام1984",
+	specimen3: "تسعة عشر وأربعة وثمانون ، غالبًا ما يتم نشرها في عام",
 	specimen4:
 		"التفكير المزدوج يعني قوة الاحتفاظ بمعتقدين متناقضين في ذهن المرء في وقت واحد ، وقبولهما",
 

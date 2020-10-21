@@ -97,6 +97,10 @@ a {
 	font-style: italic;
 }
 
+.font-system {
+	font-family: var(--font-system);
+}
+
 /* Font sizes (relative to viewport) */
 .type-8xl {
 	font-size: clamp(5rem, 25vw, 21rem);

@@ -1,47 +1,47 @@
 [
 	{
-		"name": "NotoSansArabic-ExtraCondensedThin",
-		"selector": "notosansarabic-extracondensedthin",
-		"style": "Thin Extra Condensed"
+		"name": "NotoSansArabic-SemiCondensedThin",
+		"selector": "notosansarabic-semicondensedthin",
+		"style": "Thin Semi Condensed"
 	},
 	{
-		"name": "NotoSansArabic-ExtraCondensedExtraLight",
-		"selector": "notosansarabic-extracondensedextralight",
-		"style": "Extralight Extra Condensed"
+		"name": "NotoSansArabic-SemiCondensedExtraLight",
+		"selector": "notosansarabic-semicondensedextralight",
+		"style": "Extra Light Semi Condensed"
 	},
 	{
-		"name": "NotoSansArabic-ExtraCondensedLight",
-		"selector": "notosansarabic-extracondensedlight",
-		"style": "Light Extra Condensed"
+		"name": "NotoSansArabic-SemiCondensedLight",
+		"selector": "notosansarabic-semicondensedlight",
+		"style": "Light Semi Condensed"
 	},
 	{
-		"name": "NotoSansArabic-ExtraCondensed",
-		"selector": "notosansarabic-extracondensed",
-		"style": "Extra Condensed"
+		"name": "NotoSansArabic-SemiCondensed",
+		"selector": "notosansarabic-semicondensed",
+		"style": " Semi Condensed"
 	},
 	{
-		"name": "NotoSansArabic-ExtraCondensedMedium",
-		"selector": "notosansarabic-extracondensedmedium",
-		"style": "Medium Extra Condensed"
+		"name": "NotoSansArabic-SemiCondensedMedium",
+		"selector": "notosansarabic-semicondensedmedium",
+		"style": "Medium Semi Condensed"
 	},
 	{
-		"name": "NotoSansArabic-ExtraCondensedSemiBold",
-		"selector": "notosansarabic-extracondensedsemibold",
-		"style": "Semibold Extra Condensed"
+		"name": "NotoSansArabic-SemiCondensedSemiBold",
+		"selector": "notosansarabic-semicondensedsemibold",
+		"style": "Semi Bold Semi Condensed"
 	},
 	{
-		"name": "NotoSansArabic-ExtraCondensedBold",
-		"selector": "notosansarabic-extracondensedbold",
-		"style": "Bold Extra Condensed"
+		"name": "NotoSansArabic-SemiCondensedBold",
+		"selector": "notosansarabic-semicondensedbold",
+		"style": "Bold Semi Condensed"
 	},
 	{
-		"name": "NotoSansArabic-ExtraCondensedExtraBold",
-		"selector": "notosansarabic-extracondensedextrabold",
-		"style": "Extra Bold Extra Condensed"
+		"name": "NotoSansArabic-SemiCondensedExtraBold",
+		"selector": "notosansarabic-semicondensedextrabold",
+		"style": "Extra Bold Semi Condensed"
 	},
 	{
-		"name": "NotoSansArabic-ExtraCondensedBlack",
-		"selector": "notosansarabic-extracondensedblack",
-		"style": "Black Extra Condensed"
+		"name": "NotoSansArabic-SemiCondensedBlack",
+		"selector": "notosansarabic-semicondensedblack",
+		"style": "Black Semi Condensed"
 	}
 ]

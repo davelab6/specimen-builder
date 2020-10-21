@@ -1,0 +1,32 @@
+[
+	{
+		"category": "Punctuation",
+		"subCategory": null,
+		"script": "devanagari",
+		"chars": ["0964", "0965"]
+	},
+	{
+		"category": "Symbol",
+		"subCategory": "Geometry",
+		"script": null,
+		"chars": ["25CC"]
+	},
+	{
+		"category": "Separator",
+		"subCategory": null,
+		"script": null,
+		"chars": ["000D"]
+	},
+	{
+		"category": "Separator",
+		"subCategory": "Space",
+		"script": null,
+		"chars": ["0020"]
+	},
+	{
+		"category": "Separator",
+		"subCategory": "Nonspace",
+		"script": null,
+		"chars": ["200C", "200D"]
+	}
+]

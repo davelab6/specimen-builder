@@ -57,7 +57,7 @@ ol {
 	column-gap: var(--character-grid-gap);
 	row-gap: var(--character-grid-gap);
 	font-size: var(--character-grid-font-zize);
-	border-left: 1px solid var(--grey-dark);
+	border-right: 1px solid var(--grey-dark);
 	border-top: 1px solid var(--grey-dark);
 	background: var(--background);
 }
@@ -68,7 +68,7 @@ ol {
 	justify-content: center;
 	align-items: center;
 	border-bottom: 1px solid var(--grey-dark);
-	border-right: 1px solid var(--grey-dark);
+	border-left: 1px solid var(--grey-dark);
 }
 
 .character-grid-list > li:hover {

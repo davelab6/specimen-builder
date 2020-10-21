@@ -1,47 +1,47 @@
 [
 	{
-		"name": "NotoSansArabic-Thin",
-		"selector": "notosansarabic-thin",
-		"style": "Thin"
+		"name": "NotoSansArabic-CondensedThin",
+		"selector": "notosansarabic-condensedthin",
+		"style": "Thin Condensed"
 	},
 	{
-		"name": "NotoSansArabic-ExtraLight",
-		"selector": "notosansarabic-extralight",
-		"style": "Extralight light"
+		"name": "NotoSansArabic-CondensedExtraLight",
+		"selector": "notosansarabic-condensedextralight",
+		"style": "Extralight Condensed"
 	},
 	{
-		"name": "NotoSansArabic-Light",
-		"selector": "notosansarabic-light",
-		"style": "Light"
+		"name": "NotoSansArabic-CondensedLight",
+		"selector": "notosansarabic-condensedlight",
+		"style": "Light Condensed"
 	},
 	{
-		"name": "NotoSansArabic-Regular",
-		"selector": "notosansarabic-regular",
-		"style": "Regular"
+		"name": "NotoSansArabic-Condensed",
+		"selector": "notosansarabic-condensed",
+		"style": "Condensed"
 	},
 	{
-		"name": "NotoSansArabic-Medium",
-		"selector": "notosansarabic-medium",
-		"style": "Medium"
+		"name": "NotoSansArabic-CondensedMedium",
+		"selector": "notosansarabic-condensedmedium",
+		"style": "Medium Condensed"
 	},
 	{
-		"name": "NotoSansArabic-SemiBold",
-		"selector": "notosansarabic-semibold",
-		"style": "Semibold"
+		"name": "NotoSansArabic-CondensedSemiBold",
+		"selector": "notosansarabic-condensedsemibold",
+		"style": "Semibold Condensed"
 	},
 	{
-		"name": "NotoSansArabic-Bold",
-		"selector": "notosansarabic-bold",
-		"style": "Bold"
+		"name": "NotoSansArabic-CondensedBold",
+		"selector": "notosansarabic-condensedbold",
+		"style": "Bold Condensed"
 	},
 	{
-		"name": "NotoSansArabic-ExtraBold",
-		"selector": "notosansarabic-extrabold",
-		"style": "Extrabold"
+		"name": "NotoSansArabic-CondensedExtraBold",
+		"selector": "notosansarabic-condensedextrabold",
+		"style": "Extrabold Condensed"
 	},
 	{
-		"name": "NotoSansArabic-Black",
-		"selector": "notosansarabic-black",
-		"style": "Black"
+		"name": "NotoSansArabic-CondensedBlack",
+		"selector": "notosansarabic-condensedblack",
+		"style": "Black Condensed"
 	}
 ]

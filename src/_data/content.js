@@ -1,5 +1,5 @@
 module.exports = {
-	typeface: "Noto Sans Arabic",
+	typeface: "Noto Sans Arabic Condensed",
 
 	// Masthead
 	poster: "فقد ز",

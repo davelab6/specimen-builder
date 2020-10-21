@@ -2,40 +2,36 @@
 
 module.exports = {
 	// Typeface name
-	typeface: "STIX fonts",
+	typeface: "Noto Sans Vai",
 
 	// Masthead
-	poster: "Ψ℘ℂℜ",
+	poster: "ꕉꕜꕮ",
 
 	// Meta
-	link: "https://www.stixfonts.org",
-	published: "1995 – 2020",
+	link: "https://www.google.com/get/noto/#sans-vaii",
+	published: "2020",
 	about:
-		"The mission of the Scientific and Technical Information Exchange (STIX) font creation project is the preparation of a comprehensive set of fonts that serve the scientific and engineering community in the process from manuscript creation through final publication, both in electronic and print formats.",
-	designers: "Tiro Typeworks",
-	coverage: "Latin, Greek, & Cyrillic",
-	language:
-		"Afrikaans, Albanian, Asturian, Basque, Bosnian, Breton, Catalan, Cebuano, Cornish, Corsican, Croatian, Czech, Danish, English, Esperanto, Estonian, Faroese, Faroese, Filipino, Finnish, Flemish, French, Frisian, Friulian, Gaelic, Galician, German, Greenlandic, Guarani, Haitian, Hawaiian, Hiligaynon, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian, Kurdish, Latin, Latvian, Lithuanian, Livonian, Luxembourgish, Malagasy, Malay, Maltese, Maori, Moldavian, Nederlands, Norwegian, Occitan, Polish, Portuguese, Provencal, Romanian, Romansch, Saami, Samoan, Scots, Scottish, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Turkish, Walloon, Welsh, Wolof, Belarusian, Bulgarian, Macedonian, Moldavian, Russian, Serbian (Cyrillic), Ukrainian, Greek.",
+		"Google has been developing a font family called Noto, which aims to support all languages with a harmonious look and feel. Noto has multiple styles and weights, and is freely available to all.",
+	coverage: "1 Language, 1 Region",
+	language: "Vai (Vai script)",
 
 	// Tester
-	tester: "Just keep examining every low bid quoted for zinc etchings.",
+	tester: "ꕢꕎꕌ ꔖꔜꕯꕊ (1) ꕉꕜꕮ ꔔꘋ ꖸ ꔰ ꗋꘋ ꕮꕨ ꔔꘋ ꖸ ꕎ ꕉꖸꕊ ꕴꖃ ꕃꔤꘂ",
 
 	// Specimen
-	specimen1: "BORN FREE",
-	specimen2: "Construção",
-	specimen3: "Nineteen Eighty-Four, often published as 1984",
-	specimen4:
-		"Doublethink means the power of holding two contradictory beliefs in one’s mind simultaneously, and accepting",
+	specimen1: "ꗋꘋ ꕮꕨ ꔔꘋ ꖸ ꕎ ",
+	specimen2: "ꕉꖸꕊ ꕴꖃ",
+	specimen3: "ꕃꔤꘂ ꗱ, ꕉꖷ ꗪꗡ",
 
 	// Setting
-	setting1: "Everyone has the right to life",
-	setting2: "All human beings are born free and equal in dignity and rights.",
+	setting1: "ꕸꖃ ꖴꘋ ꕞꖇꘋꗣ",
+	setting2: "ꕕ ꖷ ꗞ ꖸꔧ ꕀꔤ ꔻꔤ ꗞ ꔰ ꕞ ꕉꕜꕮ ꔔꘋꕧꕌ ꕮ ꕪꘋ ꔰ ꕢꕎꕌ ꕧꕌ.",
 	setting3:
-		"They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood. Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty.",
+		"ꕪꘋ ꖷ ꗞꔧ ꕀꔤ ꔻꔤ ꔤ ꗃꗡ ꖸꕊ ꗪꗡ ꔻꔤꘂ ꕮ, ꘃꖷ ꕉ ꗋꘋ ꕉꕜꕮ ꔔꘋ, ꔧ ꘃꖷ ꗞꗢ ꗬꗡ ꗏ ꕪꘋꔕ ꖷ ꕉ ꕞ ꗓꔒ ꗪ ꗞꗢ ꕚ ꗋꖺꕒꕌ ꖷ ꗞ ꔇꔀ ꖴꘋ ꕉ ꗃꕎ ꕉ ꕸꖃ (ꗞ ꔇꔀ ꖴꘋ ꕉ ꕮ ꕒꔤꕩ ꕉ ꕞ), ꕉ ꕎ ꔳꕩ ꖃꘋ ꖨꕮꕊ ꖏ ꖴꕮ ꕪ ꕞ ꖏꕎ, ꔧ ꕃ ꔳ ꕚꘋꔕꔀ, ꔧ ꖴꗷ ꕢꕮ ꕞ ꖏꕎ ꖦꖕꕰꕊ ꕮ",
 	setting4:
-		"Everyone has the right to life, liberty and security of person. No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms. No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment. Everyone has the right to recognition everywhere as a person before the law. All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.",
+		"ꕪꘋ ꖷ ꗞ ꕮ ꗛꖺ ꔧ ꕒꕌ ꕪ ꗞ ꖸꕊ ꗋꖺꕰꕊ ꖸ ꕮ, ꗋꖺꕰꕊ ꗷꔤ ꖷ ꖸ ꗞ ꔇꔀ ꖴꘋ ꕉꕜꕮ ꔔꘋ ꕮ ꕒꔤꕩ ꕉꖸ ꕞ, ꕉꕡ ꔳ ꕢꖝ ꖏ ꔉꔀ ꕧꕌꕩ ꕰꕊꕮ ꖸꕊ ꕉꕜꕮ ꔔꘋ ꖸ ꕘꕞ ꔬꕩ ꕉꖸ ꖴꘋꗒ ꕃꔤꘂ ꖸ ꗏ, ꔧ ꘃꖷ ꕢꕌꕮꔧ ꗬ ꗦ ꖦꖕꕰ ꘈꗢ ꕮ ꕒ ꕡ ꖷ ꕉꕜꕮ ꔔꘋ ꖸ ꖴꘋ ꕉꖸ ꕚꕌ ꗉꕎ ꖏ ꖸ ꗏ, ꔧ ꘃꖷ ꕉꖸ ꖴꕮ ꕔꕢꘋ ꖏꔤ ꔳ, ꕉꖷ ꕉꖸ ꕮ ꔳ ꕆꔧꕰꕊ ꗪ ꔌꘋ ꕴꕱ ꗏ, ꖴꗷ ꕞ ꗓꖺꕮ ꗦ ꘃ ꖏ ꖸ ꘈ ꗞ ꕮꕀꔤꔒꔀ ꖸ ꕘꕞꕌ ꖸ ꗓꔒ ꗪ ꕉꖸ ꕞ ꕼꘋ",
 	setting5:
-		"Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law. No one shall be subjected to arbitrary arrest, detention or exile. Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him. (1) Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence. (2) No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed. No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.",
+		"ꕪꘋ ꖷ ꖕꕯꔤꗳ ꔢꗔꘋ ꗞꗢ ꖸꕊ ꕢꕌꔳꘂ ꘀꗡꕩ ꗏ ꕉꕌ ꕞ ꔷꔤ ꕉꖸꕊ ꕔꕢꘋꗣ ꕮ ꔖꔜ ꗋꖺꕰꕊ ꘈꗢꖸ ꖸ ꗏ ꕉꕜꕮ ꔔ ꘋ ꖸꕊ ꖏꕎ, ꗪꗡ ꔻꔤ ꗪ ꖏꖃꕩꕌ ꖷ ꗪ ꕉꕜꕮ ꔔꘋ ꕞ ꖏꕎ, ꔧ ꘃꖷ ꗋꖺꕰꕊ ꗏꗒꗡ ꕎ ꗪ ꕪꔤꘂ ꖸ ꗪ ꖷꖬꘂ ꖸꕊ ꖏꕎ, ꕉꖷ ꕉ ꗪ ꕉꖸ ꗏ ꕉꖸꔧ ꗛꘋ ꗓ ꕚꕌꕧꕌ ꗛꖺ ꗞꗢ ꖸ ꔱꕩ ꗃꗡ ꖸꕊ ꖏꕎ, ꕉꖸ ꕩꕌꖸꕊ ꖦꖕꕰꕊ ꗏ ꔳꘂ ꗪꗡꕯ ꔧ ꕘꕞ ꗃꘋ ꖨꕮ ꕚꘋꔕ ꗏ,",
 	setting6:
-		"Article 13. (1) Everyone has the right to freedom of movement and residence within the borders of each state. (2) Everyone has the right to leave any country, including his own, and to return to his country. Article 14. (1) Everyone has the right to seek and to enjoy in other countries asylum from persecution. (2) This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations. Article 15. (1) Everyone has the right to a nationality. (2) No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality. Article 16. (1) Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution. (2) Marriage shall be entered into only with the free and full consent of the intending spouses. (3) The family is the natural and fundamental group unit of society and is entitled to protection by society and the State. Article 17. (1) Everyone has the right to own property alone as well as in association with others. (2) No one shall be arbitrarily deprived of his property. Article 18. Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance. Article 19. Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers. Article 20. (1) Everyone has the right to freedom of peaceful assembly and association. (2) No one may be compelled to belong to an association."
+		"ꗪ ꕉ ꕮꕯ ꗞꗢ ꗬꗡ ꕩꕌ ꗓ ꘃ ꖏ ꘈꗢ ꖷ ꖸ ꖦꖕꕰꕊ ꗝꘈꔳꘂ (ꕮꕨꕧꕌ) ꖸ ꖴꗷ ꕢꕌ ꕉꖸ ꕮ ꕉ ꕞ ꗓꔒ ꕉꕜꕮ ꔔꘋ ꕞ ꗋꖺꕰꕊ ꖸ ꕞ, ꕉꔤ ꔳ ꖏ ꕚꕌꘂ ꕃꔤ ꗏꗒꗡ ꖏ ꗞꗢ ꖸ ꗬꗡ ꔧ ꕸꖃꔀ ꖸ ꗬꗡ ꕞ ꖏꕎ, ꘃꖷ ꕉ ꕞꕒꘋꗣ ꗏ ꗞ ꗏꗒ ꔰ ꔧ ꕪꘋ ꔰ ꕉꕜꕮ ꔔꘋ ꖸ ꗳ, ꕎꕌꔳ ꖷ ꕉꖸꔧ ꖏꕎꔀ ꖴꗷ ꘈꗢꖸ ꖸ ꗓꕎ ꖤꘋ ꗞ ꖸ ꖴꘋꗒ, ꕉꖸ ꕩꕌ ꔬꕩꕌ ꕉꖸ ꔵ ꕞ ꕉꖸꔧ ꗛꘋ ꗓ ꗋꖺꕰꕊ ꘈꗢꖸ ꖸ ꗪ ꖴꕮ ꕪ ꘈꗢꖸ ꖸ ꗛꖺ, ꗷꔤ ꖷ ꕉꖸꔧ ꗞ ꖸ ꕪꕌ ꕉꖸꔧ ꗞ ꖸ ꗓꕎ ꕃꕞ ꕮ, ꕉꖷ ꕉꖸꔧ ꕚꕌ ꕧꕌ ꗏꖺ ꖏ ꘈꗢꖸ ꖸ ꗏ ꗞꗢ ꖸ ꗳ ꕸꖃ ꖴꘋꗣ ꖸ ꗳꕮꕊ ꗏ, ꔧ ꗦ ꗞꗢ ꘃꖷ ꖸꔧ ꔳꕩ ꖨꕮꕊ ꖸ ꕮ ꕉꖸꕊ ꕃꔳꘂ ꗛꖺ."
 };

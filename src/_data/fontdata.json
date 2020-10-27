@@ -1,22 +1,22 @@
 [
 	{
-		"name": "NotoSansSoraSompeng-Regular",
-		"selector": "notosanssorasompeng-regular",
-		"style": "Regular"
+		"name": "Noto Sans Sora Sompeng Bold",
+		"selector": "noto-sans-sora-sompeng-bold",
+		"style": "bold"
 	},
 	{
-		"name": "NotoSansSoraSompeng-Medium",
-		"selector": "notosanssorasompeng-medium",
-		"style": "Medium"
+		"name": "Noto Sans Sora Sompeng Medium",
+		"selector": "noto-sans-sora-sompeng-medium",
+		"style": "medium"
 	},
 	{
-		"name": "NotoSansSoraSompeng-SemiBold",
-		"selector": "notosanssorasompeng-semibold",
-		"style": "Semibold bold"
+		"name": "Noto Sans Sora Sompeng Regular",
+		"selector": "noto-sans-sora-sompeng-regular",
+		"style": "regular"
 	},
 	{
-		"name": "NotoSansSoraSompeng-Bold",
-		"selector": "notosanssorasompeng-bold",
-		"style": "Bold"
+		"name": "Noto Sans Sora Sompeng Semi Bold",
+		"selector": "noto-sans-sora-sompeng-semi-bold",
+		"style": "semibold bold"
 	}
 ]
